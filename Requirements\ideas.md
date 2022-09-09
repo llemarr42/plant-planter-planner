@@ -4,6 +4,7 @@
  (E.X. The project should be capable of moving independently. We could use motorized wheels or treads to move it.)
 - Heavy/large enough to move dirt
 - Either dig or push dirt out of the way
+- The digger or ?dirt pusher? should be able to retract so it doesn't constantly dig trenches.
 - System that contains seeds and drops them individually
 - Preferably treads for the wheels
 - Measure distance
