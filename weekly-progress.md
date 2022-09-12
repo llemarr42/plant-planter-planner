@@ -1,1 +1,3 @@
-# plant-planter-planner
+# Weekly Progress
+
+### Week #1
