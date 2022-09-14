@@ -13,3 +13,5 @@
 - Battery accessible battery port and/or rechargeable 
 - what will be the maximum seed size that our project can handle
 - How big/powerful will our motots for our wheels or treads need to be
+- Can move over rougher terrain
+- Can aviod larger obstacles 
