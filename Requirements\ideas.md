@@ -15,3 +15,5 @@
 - How big/powerful will our motots for our wheels or treads need to be
 - Can move over rougher terrain
 - Can aviod larger obstacles 
+- possibly has the movement behavior of a Roomba
+- possibly a way to right itself if it is flipped
