@@ -17,3 +17,4 @@
 - Can aviod larger obstacles 
 - possibly has the movement behavior of a Roomba
 - possibly a way to right itself if it is flipped
+- accessable seed container needs to be easily refilled
