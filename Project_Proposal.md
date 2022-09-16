@@ -40,9 +40,10 @@ This improves the world by allowing trees to be planted by a robot rather than a
 
 
 ### Materials/Budget
-#### What type of micro-controller do you plan on using?
-#### What materials from the lab will you be able to use?
-#### What materials and costs do you anticipate needing to complete the project?
+* Rasp pi
+* GPS Atenna
+* Tetrix Batteries and Chargers
+* 
 
 
 ### Deliverables
