@@ -36,6 +36,8 @@ We were able to create a flushed out idea of our project and the sort of things 
 
 - What was difficult?
 
+We struggled to find a design or premade product for track treads that we want to include. 
+
 - What is our plan for next week?
 
 We plan to finish our preliminary research next Friday. We say preliminary because we are sure that things will change while we progress into this project.
