@@ -32,6 +32,8 @@ We have a promblem that a lot of the different aspects that we would like to inc
 
 - What went well?
 
+We were able to create a flushed out idea of our project and the sort of things that need to go into it.
+
 - What was difficult?
 
 - What is our plan for next week?
