@@ -27,6 +27,8 @@ We decided that treads would be better for our planter.
 
 - What new issues were discovered?
 
+We have a promblem that a lot of the different aspects that we would like to include but they are either too expensive or unfeasable for us too build from scratch.
+
 - What went well?
 
 - What was difficult?
