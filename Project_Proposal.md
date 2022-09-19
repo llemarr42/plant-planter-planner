@@ -41,7 +41,7 @@ This improves the world by allowing trees to be planted by a robot rather than a
 
 ### Materials/Budget
 * Rasp pi
-* GPS Atenna
+* GPS Antenna
 * Tetrix Batteries and Chargers
 * 
 
