@@ -35,14 +35,14 @@ This improves the world by allowing trees to be planted by a robot rather than a
 ### How will you measure the success of meeting each requirement?
 - Success will be measured by how well each part works individually, but also as a part within the project as a whole.
 
-### Timeline
-#### How do you plan on meeting each of your requirements?
+## Timeline
+### How do you plan on meeting each of your requirements?
 - We plan on working on similar things at the same time, but not the same thing unless it is something big (for example the lasers or sensors). By doing this we can help each other if needed, but also get twice as much done. 
-#### In what order will you complete each step?
+### In what order will you complete each step?
 - We will do the CAD first and then work with the coding last. Finally, and most obviously, will be the building and testing.
-#### How much time do you anticipate each step will take (THIS IS IMPORTANT!)?
+### How much time do you anticipate each step will take (THIS IS IMPORTANT!)?
 - We plan for the coding to only take about a month. We left the month of October for coding. November and December will be months for coding. Ideally we will have all of the coding done by the time we leave for winter break. Building will take place during January and February. The last week and a half of February and March are dedicated to testing.  April will be used for final testing and building. The later half of March is all open for anything. We could spend this time catching up on anything or doing extra stuff from our non essential list. May is all for documentation and presentations. We plan to have the project completed, working, and presented on May 19th.
-#### In depth Schedule
+### In depth Schedule
 - September:
  - Meeting With Customer - Wednesday, Sept 28
  - Preliminary Research - Thursday, Sept 29
@@ -97,10 +97,10 @@ This improves the world by allowing trees to be planted by a robot rather than a
  - Documentation (presentation prep) - Wednesday, May 17
  - Documentation (final presentation) - Friday, May 19
 
-### Materials/Budget
-#### What type of micro-controller do you plan on using?
+## Materials/Budget
+### What type of micro-controller do you plan on using?
 - We are planning on using a raspberry pi as of right now.
-#### What materials from the lab will you be able to use?
+### What materials from the lab will you be able to use?
 - Rasp pi
 - GPS Antenna
 - Tetrix Batteries and Chargers
@@ -111,19 +111,19 @@ This improves the world by allowing trees to be planted by a robot rather than a
 - 3D printed parts
 - Metal parts
 - Ultrasonic sensors
-#### What materials and costs do you anticipate needing to complete the project?
+### What materials and costs do you anticipate needing to complete the project?
 - Possibly needing to buy more chains and chain sprockets if there aren’t enough in the lab. Another thing might be a dirt drill auger for the digging part of the project.
 
 
-### Deliverables
-#### What will you be turning at the end of the year?
+## Deliverables
+### What will you be turning at the end of the year?
 - We will be turning in a project that can dig into the ground, plant a seed, and cover it with dirt repeatedly while avoiding obstacles.
-#### Do you plan on also submitting a Technical Report, Edited Video, or giving a Presentation?
+### Do you plan on also submitting a Technical Report, Edited Video, or giving a Presentation?
 - We will be giving a final presentation foir the submission part.
 
 
-### References
-#### There are a hundred different ways to do references and I'm not going to tell you which one to use, but you need references and those should be cited within your paper.  If this proposal is any good, it will be rich in research and technical details.  Those will come from sources and those sources need to be cite
+## References
+### There are a hundred different ways to do references and I'm not going to tell you which one to use, but you need references and those should be cited within your paper.  If this proposal is any good, it will be rich in research and technical details.  Those will come from sources and those sources need to be cite
 * will be more organized in future*
 - https://hackaday.com/2011/02/21/farmbot/ 
 - https://www.intorobotics.com/inspiration-diy-tank-treads-collection/ 
