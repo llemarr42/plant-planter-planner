@@ -43,6 +43,14 @@ Link to doc: https://docs.google.com/document/d/1SvQ5M1Lx7RupQz4pVZgexHSOjGNyKZo
 - Metal parts
 - Ultrasonic sensors
 
+
+Amazon Links to possible materials:
+- Motor: https://www.amazon.com/Torque-Motor-3000RPM-Permanent-Magnet/dp/B078F7M8R8/ref=sr_1_2?keywords=High%2BTorque%2BDc%2BMotor&qid=1662749814&sr=8-2&th=1
+- Treads: https://www.amazon.com/PGN-Roller-Chain-10feet-Connecting/dp/B07NPSZCK6/ref=pd_day0fbt_img_sccl_1/141-7876970-4437856?pd_rd_w=QFD4u&content-id=amzn1.sym.4f1ddc71-f45e-4113-b3ab-af5a714525a1&pf_rd_p=4f1ddc71-f45e-4113-b3ab-af5a714525a1&pf_rd_r=P5TPP0TTDTASXKDMEF3P&pd_rd_wg=dFGtg&pd_rd_r=6719008a-628d-404f-b2b3-1ad77d83fa65&pd_rd_i=B07NPSZCK6&psc=1
+- Augers: https://www.amazon.com/Dirt-Hole-Auger/s?k=Dirt+Hole+Auger
+- Laser Sensor: https://www.amazon.com/Distance-Sensor-XIAOMI-Roborock-Cleaner/dp/B084DPRYRF?scrlybrkr=439f6845
+
+
 ## Roomba/laser idea
 - https://www.amazon.com/Distance-Sensor-XIAOMI-Roborock-Cleaner/dp/B084DPRYRF?scrlybrkr=439f6845
 - Also possibly just use ultrasonic sensors
