@@ -1,4 +1,7 @@
-# plant-planter-planner
+# Research
+
+Link to doc: https://docs.google.com/document/d/1SvQ5M1Lx7RupQz4pVZgexHSOjGNyKZoV8OVjbHHYBjs/edit
+
 ### This README should include the early research that we did on our project.
 
 ## Motor
