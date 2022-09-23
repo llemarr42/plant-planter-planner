@@ -46,9 +46,15 @@ We plan to finish our preliminary research next Friday. We say preliminary becau
 ### Sept 19-23 (Week #5)
 - What did we work on?
 
+We worked on finalizing our preliminary research by looking more in depth at multple points of our project that we had an idea for, but no real research on. We also looked back on some things that we wanted to include and saw if they were feasible. We found and research alternate ways to acheive our requirements in ways that are more possible to acheive in a reasonable amount of time.
+
 - What decisions were made?
 
+We decided on the schedule that we want to follow. We found that our original idea of pushing the dirt would be unlikely to be possible so we chose to use a auger to dig small holes instead. We also finalized a lot of the materials that we will use.
+
 - What new resources did we find?
+
+
 
 - What new issues were discovered?
 
