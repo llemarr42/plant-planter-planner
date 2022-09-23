@@ -53,17 +53,30 @@ We worked on finalizing our preliminary research by looking more in depth at mul
 We decided on the schedule that we want to follow. We found that our original idea of pushing the dirt would be unlikely to be possible so we chose to use a auger to dig small holes instead. We also finalized a lot of the materials that we will use.
 
 - What new resources did we find?
-
+- 
+https://hackaday.com/2011/02/21/farmbot/
+https://www.intorobotics.com/inspiration-diy-tank-treads-collection/
+https://www.thingiverse.com/thing:132199
+https://www.thingiverse.com/thing:36305
+https://spectrum.ieee.org/how-to-dig-a-hole-with-two-drones-and-a-parachute
+https://www.youtube.com/watch?v=0jIJB3mtzbk
 
 
 - What new issues were discovered?
 
+We wanted to use a plough sort of design to push dirt and and plant as our robot was moving, but we discovered that this is a terrible design. In terrain that has so much as a root or rock in the way our robot would be useless. This isn't even thinking of how hard it is to push dirt especially if it is packed. We had to find an entirely new way to dig up dirt and to get our seeds into the hole.
+
 - What went well?
+
+We got a lot of research done and the things we discovered will helps us so that we aren't half way through our project when we discover that something won't work. We also were able to research every part of our project in at least some capacity.
 
 - What was difficult?
 
+We had trouble finding the things we need that are within our budget,
+
 - What is our plan for next week?
 
+We will have finished all our research and will have put it together in our project proposal.
 
 ###  - (Week #)
 - What did we work on?
