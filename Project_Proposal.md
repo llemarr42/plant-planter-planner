@@ -124,7 +124,7 @@ This improves the world by allowing trees to be planted by a robot rather than a
 
 ## References
 ### There are a hundred different ways to do references and I'm not going to tell you which one to use, but you need references and those should be cited within your paper.  If this proposal is any good, it will be rich in research and technical details.  Those will come from sources and those sources need to be cite
-* will be more organized in future*
+*will be more organized in future*
 - https://hackaday.com/2011/02/21/farmbot/ 
 - https://www.intorobotics.com/inspiration-diy-tank-treads-collection/ 
 - https://www.thingiverse.com/thing:132199 
