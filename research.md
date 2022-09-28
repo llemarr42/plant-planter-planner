@@ -15,6 +15,7 @@ Link to doc: https://docs.google.com/document/d/1SvQ5M1Lx7RupQz4pVZgexHSOjGNyKZo
 ## Digging
 - https://hackaday.com/2011/02/21/farmbot/ 
 - https://spectrum.ieee.org/how-to-dig-a-hole-with-two-drones-and-a-parachute 
+- https://www.youtube.com/watch?v=-cFQJHp60ik
 
 ## Seed Container and dropping individually
 - https://www.youtube.com/watch?v=0jIJB3mtzbk 
