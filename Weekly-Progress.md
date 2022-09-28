@@ -92,6 +92,8 @@ We will have finished all our research and will have put it together in our proj
 #### What is our plan for next week?
 
 
+## October
+
 ###  - (Week #)
 #### What did we work on?
 
