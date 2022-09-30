@@ -79,34 +79,91 @@ We will have finished all our research and will have put it together in our proj
 ### Sept 27-30 (Week #6)
 #### What did we work on?
 
+This week we finished our research and have a rough idea of everything we want to do. We are pretty much done with our project proposal other than images of our onshape prototype. We haven't finished it yet, but are working to finish it by Monday next week.
+
 #### What decisions were made?
+
+We decided on dispensing seeds with a gear.
 
 #### What new resources did we find?
 
+- https://www.youtube.com/watch?v=-cFQJHp60ik 
+
 #### What new issues were discovered?
+
+We still have a few questions about how things will work. Mainly on where everything will go. We also started wondering about how to get the seed into the hole after digging it. We brainstormed and came up with two. One being a hollow auger that the seed will go down once it's stopped digging. This will probably be what we do. The other option is to have the auger come back up and have some tube or funnel that the seed will go through to all in the hole.
 
 #### What went well?
 
+We were able to decide on an idea for every part of our project. 
+
 #### What was difficult?
 
+Figuring out the placement of everything inside of our project. It's also been a bit difficult picturing the actual size of our projects.
+
 #### What is our plan for next week?
+
+We will finish our rough prototype and then start moving into making actual CAD parts next week. Our first customer meeting will be next week as well.
 
 
 ## October
 
-###  - (Week #)
+### Oct 3-7 (Week #7)
 #### What did we work on?
+
+
 
 #### What decisions were made?
 
+
+
 #### What new resources did we find?
+
+
 
 #### What new issues were discovered?
 
+
+
 #### What went well?
 
+
+
 #### What was difficult?
+
+
 
 #### What is our plan for next week?
 
 
+
+###  - (Week #)
+#### What did we work on?
+
+
+
+#### What decisions were made?
+
+
+
+#### What new resources did we find?
+
+
+
+#### What new issues were discovered?
+
+
+
+#### What went well?
+
+
+
+#### What was difficult?
+
+
+
+#### What is our plan for next week?
+
+
+
+i
