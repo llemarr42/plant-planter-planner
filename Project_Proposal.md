@@ -1,6 +1,7 @@
 # Project Proposal
 
 Link to Doc: https://docs.google.com/document/d/1KSArXlWvBidD9csK5897PrSc5vit4sxn0whxIpvz6fQ/edit?usp=sharing
+Link to Onshape: 
 
 ## Summary of Project Idea
 ### Identify the problem and your proposed solution.
