@@ -109,32 +109,17 @@ We will finish our rough prototype and then start moving into making actual CAD 
 ## October
 
 ### Oct 3-7 (Week #7)
-#### What did we work on?
+#### What new things did you learn or try this week?
 
+We learned that our original idea will not work due to the lack of a market for it. We have changed our project to plany grape vines rather than seeds or trees. We need to have a way to store and plant saplings. This means adding a robotic arm to our project. This will take a bunch of time that we didn't really plan for, but I think we will still be able to do it.
 
+#### What has been the most useful resource for your project and why? 
 
-#### What decisions were made?
+So far, the most useful has been our customer because we were able to really dial into what we are doing in our projects. We can now find more things that we want and need for our project.
 
+#### What help can I offer to help you complete your Project Proposal Presentations?
 
-
-#### What new resources did we find?
-
-
-
-#### What new issues were discovered?
-
-
-
-#### What went well?
-
-
-
-#### What was difficult?
-
-
-
-#### What is our plan for next week?
-
+Nothing as of right now. We have to change a few things, but I think we are ok on the presentation part.
 
 
 ###  - (Week #)
