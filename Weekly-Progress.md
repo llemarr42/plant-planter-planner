@@ -122,6 +122,20 @@ So far, the most useful has been our customer because we were able to really dia
 Nothing as of right now. We have to change a few things, but I think we are ok on the presentation part.
 
 
+### Oct 10-14 (Week #8)
+#### What did we work on?
+
+This week worked on our presentation and getting the robot arm ready, in terms of both design and functions needed. We also are starting to prepare our presentation for the project proposal.
+
+#### What new resources did we find?
+
+We found a bit more information on grapes and ideas for the robot arm. We also talked with Mr. Garcia to flush out ideas for the robot arm. 
+
+#### What is our plan for next week?
+
+Next week we will have presented the presenation and continue working on Onshape. 
+
+
 ###  - (Week #)
 #### What did we work on?
 
@@ -151,4 +165,4 @@ Nothing as of right now. We have to change a few things, but I think we are ok o
 
 
 
-i
+
