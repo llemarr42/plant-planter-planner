@@ -5,25 +5,23 @@ Link to Onshape:
 
 ## Summary of Project Idea
 ### Identify the problem and your proposed solution.
-The problem is deforestation by people and forest fires. Our proposed solution is a robot that can plant seeds, while avoiding tree stumps and other obstacles. 
+Currently there is a problem with the planting of grapes. The workers are underpaid and overworked. There is no process as of right now to make the planting of the grape saplings easier. Our project is to make a robot that will dig holes into the ground and plant the saplings gently to avoid damage to them. We will also need a system that will prevent the roots from drying out within the robot before they’re planted as well.
 ### How does this improve the world, community, school?
-This improves the world by allowing trees to be planted by a robot rather than a person or people spending hours replanting trees in huge areas.
+This improves the world by allowing grapes to be planted by a robot rather than a person or people spending hours planting in bigger areas.
 ### What are your essential and non-essential requirements?
 #### Essential
-- Either dig or push dirt out of the way 
-  - Heavy/large enough to move dirt
-  - The digger or dirt pusher should be able to retract so it doesn't constantly dig trenches.
-- Run automatically
-- Battery accessible battery port and/or rechargeable
-- System that contains seeds and drops them individually
-  - We can use a gear that rotates
-  - Accessible seed container needs to be easily refilled
-- Measure distance
+- Digging a hole wide enough to fit the saplings
+  - The digger should be able to retract so it doesn't constantly dig trenches.
+- Robotic Arm
+  - Needs to be able to move in two directions
+  - Pick up the sapling.
 - Movement
   - Preferably treads for the wheels
   - Can move over rougher terrain
-  - Can avoid larger obstacles
-  - Possibly has the movement behavior of a Roomba
+- Have a system that prevents the saplings from drying out before they are planted
+- Measure distance
+- Run automatically
+- Battery accessible battery port and/or rechargeable
 #### Non-Essential
 - Self - Correction
   - A  way to right itself if it is flipped
@@ -113,8 +111,7 @@ This improves the world by allowing trees to be planted by a robot rather than a
 - Metal parts
 - Ultrasonic sensors
 ### What materials and costs do you anticipate needing to complete the project?
-- Possibly needing to buy more chains and chain sprockets if there aren’t enough in the lab. Another thing might be a dirt drill auger for the digging part of the project.
-
+A lot of what we want to use in the lab, but is for the robotic team.  Another thing might be a dirt drill auger for the digging part of the project. So we might have to buy these for our own project.
 
 ## Deliverables
 ### What will you be turning at the end of the year?
