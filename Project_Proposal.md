@@ -1,6 +1,7 @@
 # Project Proposal
 
 Link to Doc: https://docs.google.com/document/d/1KSArXlWvBidD9csK5897PrSc5vit4sxn0whxIpvz6fQ/edit?usp=sharing
+
 Link to Onshape: https://cvilleschools.onshape.com/documents/1a1ee1f069078b8f644b2482/w/2e00c393992b1f7672ed8b17/e/8d7af722d3efcb039f2eb1b1
 
 ## Summary of Project Idea
