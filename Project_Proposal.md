@@ -1,7 +1,7 @@
 # Project Proposal
 
 Link to Doc: https://docs.google.com/document/d/1KSArXlWvBidD9csK5897PrSc5vit4sxn0whxIpvz6fQ/edit?usp=sharing
-Link to Onshape: 
+Link to Onshape: https://cvilleschools.onshape.com/documents/1a1ee1f069078b8f644b2482/w/2e00c393992b1f7672ed8b17/e/8d7af722d3efcb039f2eb1b1
 
 ## Summary of Project Idea
 ### Identify the problem and your proposed solution.
@@ -27,9 +27,7 @@ This improves the world by allowing grapes to be planted by a robot rather than 
   - A  way to right itself if it is flipped
   - Distress signal if it gets stuck
 #### Unanswered Question
-- What will be the maximum seed size that our project can handle?
 - How big/powerful will our motors for our wheels or treads need to be?
-- What is the most efficient method of digging?
 
 ### How will you measure the success of meeting each requirement?
 - Success will be measured by how well each part works individually, but also as a part within the project as a whole.
@@ -40,7 +38,7 @@ This improves the world by allowing grapes to be planted by a robot rather than 
 ### In what order will you complete each step?
 - We will do the CAD first and then work with the coding last. Finally, and most obviously, will be the building and testing.
 ### How much time do you anticipate each step will take (THIS IS IMPORTANT!)?
-- We plan for the coding to only take about a month. We left the month of October for coding. November and December will be months for coding. Ideally we will have all of the coding done by the time we leave for winter break. Building will take place during January and February. The last week and a half of February and March are dedicated to testing.  April will be used for final testing and building. The later half of March is all open for anything. We could spend this time catching up on anything or doing extra stuff from our non essential list. May is all for documentation and presentations. We plan to have the project completed, working, and presented on May 19th.
+- We plan for the coding to only take about a month. We left the month of October and a bit of November for Onshape. November and December will be months for coding. Ideally we will have all of the coding done by the time we leave for winter break. Building will take place during January and February. The last week and a half of February and March are dedicated to testing.  April will be used for final testing and building. The later half of March is all open for anything. We could spend this time catching up on anything or doing extra stuff from our non essential list. May is all for documentation and presentations. We plan to have the project completed, working, and presented on May 19th.
 ### In depth Schedule
 #### September:
  - Meeting With Customer - Wednesday, Sept 28
@@ -48,17 +46,15 @@ This improves the world by allowing grapes to be planted by a robot rather than 
  - Project proposal - Friday, Sept 30
 
 #### October:
- - CAD (seed container and distributor) -  Monday, Oct 10
- - CAD (treads and wheels) - Monday, Oct 10
- - CAD (digger or pusher) - Wednesday, Oct 19
- - CAD (sensor placement) - Wednesday, Oct 19
- - CAD (all together) - Wednesday, Oct 26
- - Meeting With Customer - Wednesday, Oct 26
+ - Meeting With Customer - Wednesday, Oct 5
+ - CAD (treads and wheels) - Monday, Oct 21
+ - Project proposal - Monday, Oct 24
 
 #### November:
- - Coding (seed container and distributor) - Friday, Nov 4
+ - CAD (robot arm) - Wednesday, Nov 2
+ - CAD (all together) - Wednesday, Nov 2
  - Coding (movement and turning) - Friday, Nov 11
- - Coding (digger or pusher) - Wednesday. Nov 16
+ - Coding (digger) - Wednesday. Nov 16
  - Meeting With Customer - Wednesday, Nov 30
 
 #### December:
@@ -72,10 +68,10 @@ This improves the world by allowing grapes to be planted by a robot rather than 
  - Building (complete wheels) - Monday, Jan 16
  - Other (everything 3D printed) - Wednesday, Jan 18
  - Meeting With Customer - Wednesday, Jan 25
- - Building (seed distributor) - Thursday, Jan 26
+ - Building (digger or pusher) - Wednesday, Feb 1
 
 #### February:
- - Building (digger or pusher) - Wednesday, Feb 15
+ - Building (robot arm) - Wednesday, Feb 15
  - Building (all together) - Monday, Feb 20
  - Meeting With Customer - Wednesday, Feb 22
 
@@ -115,13 +111,12 @@ A lot of what we want to use in the lab, but is for the robotic team.  Another t
 
 ## Deliverables
 ### What will you be turning at the end of the year?
-- We will be turning in a project that can dig into the ground, plant a seed, and cover it with dirt repeatedly while avoiding obstacles.
+- We will be turning in a project that can dig into the ground, plant a grape sapling, and cover it with dirt repeatedly without getting stuck.
 ### Do you plan on also submitting a Technical Report, Edited Video, or giving a Presentation?
 - We will be giving a final presentation foir the submission part.
 
 
 ## References
-### There are a hundred different ways to do references and I'm not going to tell you which one to use, but you need references and those should be cited within your paper.  If this proposal is any good, it will be rich in research and technical details.  Those will come from sources and those sources need to be cite
 *will be more organized in future*
 - https://hackaday.com/2011/02/21/farmbot/ 
 - https://www.intorobotics.com/inspiration-diy-tank-treads-collection/ 
@@ -129,4 +124,5 @@ A lot of what we want to use in the lab, but is for the robotic team.  Another t
 - https://www.thingiverse.com/thing:36305 
 - https://spectrum.ieee.org/how-to-dig-a-hole-with-two-drones-and-a-parachute 
 - https://www.youtube.com/watch?v=0jIJB3mtzbk 
+- https://www.youtube.com/watch?v=zyO_c6kIXCk
 
