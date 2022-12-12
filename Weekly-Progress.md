@@ -136,7 +136,7 @@ We found a bit more information on grapes and ideas for the robot arm. We also t
 Next week we will have presented the presenation and continue working on Onshape. 
 
 
-###  - (Week #)
+### Oct 17-21 (Week #9)
 #### What did we work on?
 
 
@@ -162,6 +162,35 @@ Next week we will have presented the presenation and continue working on Onshape
 
 
 #### What is our plan for next week?
+
+
+### Oct 24-28 (Week #10)
+#### What did we work on?
+
+
+
+#### What decisions were made?
+
+
+
+#### What new resources did we find?
+
+
+
+#### What new issues were discovered?
+
+
+
+#### What went well?
+
+
+
+#### What was difficult?
+
+
+
+#### What is our plan for next week?
+
 
 
 
