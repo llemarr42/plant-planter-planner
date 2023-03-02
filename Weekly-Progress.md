@@ -164,7 +164,7 @@ Next week we will have presented the presenation and continue working on Onshape
 #### What is our plan for next week?
 
 
-### Oct 24-28 (Week #10)
+### Oct 24-26 (Week #10)
 #### What did we work on?
 
 
@@ -190,6 +190,490 @@ Next week we will have presented the presenation and continue working on Onshape
 
 
 #### What is our plan for next week?
+
+
+
+## November
+
+
+### Oct 31- Nov 4 (Week #11)
+#### What did we work on?
+
+
+
+#### What decisions were made?
+
+
+
+#### What new resources did we find?
+
+
+
+#### What new issues were discovered?
+
+
+
+#### What went well?
+
+
+
+#### What was difficult?
+
+
+
+#### What is our plan for next week?
+
+
+
+### Nov 9-11 (Week #12)
+#### What did we work on?
+
+
+
+#### What decisions were made?
+
+
+
+#### What new resources did we find?
+
+
+
+#### What new issues were discovered?
+
+
+
+#### What went well?
+
+
+
+#### What was difficult?
+
+
+
+#### What is our plan for next week?
+
+
+
+### Nov 14-18 (Week #13)
+#### What did we work on?
+
+
+
+#### What decisions were made?
+
+
+
+#### What new resources did we find?
+
+
+
+#### What new issues were discovered?
+
+
+
+#### What went well?
+
+
+
+#### What was difficult?
+
+
+
+#### What is our plan for next week?
+
+
+
+
+### Nov 21__-22 (Week #14)
+#### What did we work on?
+
+
+
+#### What decisions were made?
+
+
+
+#### What new resources did we find?
+
+
+
+#### What new issues were discovered?
+
+
+
+#### What went well?
+
+
+
+#### What was difficult?
+
+
+
+#### What is our plan for next week?
+
+
+## December
+
+### Nov 28- Dec 2 (Week #15)
+#### What did we work on?
+
+
+
+#### What decisions were made?
+
+
+
+#### What new resources did we find?
+
+
+
+#### What new issues were discovered?
+
+
+
+#### What went well?
+
+
+
+#### What was difficult?
+
+
+
+#### What is our plan for next week?
+
+
+### Dec 5-9 (Week #16)
+#### What did we work on?
+
+
+
+#### What decisions were made?
+
+
+
+#### What new resources did we find?
+
+
+
+#### What new issues were discovered?
+
+
+
+#### What went well?
+
+
+
+#### What was difficult?
+
+
+
+#### What is our plan for next week?
+
+
+
+
+### Dec 12-16 (Week #17)
+#### What did we work on?
+
+
+
+#### What decisions were made?
+
+
+
+#### What new resources did we find?
+
+
+
+#### What new issues were discovered?
+
+
+
+#### What went well?
+
+
+
+#### What was difficult?
+
+
+
+#### What is our plan for next week?
+
+
+## January
+
+### Jan 3-6 (Week #18)
+#### What did we work on?
+
+
+
+#### What decisions were made?
+
+
+
+#### What new resources did we find?
+
+
+
+#### What new issues were discovered?
+
+
+
+#### What went well?
+
+
+
+#### What was difficult?
+
+
+
+#### What is our plan for next week?
+
+
+
+
+### Jan 9-13 (Week #19)
+#### What did we work on?
+
+
+
+#### What decisions were made?
+
+
+
+#### What new resources did we find?
+
+
+
+#### What new issues were discovered?
+
+
+
+#### What went well?
+
+
+
+#### What was difficult?
+
+
+
+#### What is our plan for next week?
+
+
+
+
+### Jan 17-20 (Week #20)
+#### What did we work on?
+
+
+
+#### What decisions were made?
+
+
+
+#### What new resources did we find?
+
+
+
+#### What new issues were discovered?
+
+
+
+#### What went well?
+
+
+
+#### What was difficult?
+
+
+
+#### What is our plan for next week?
+
+
+
+
+### Jan 24-27 (Week #21)
+#### What did we work on?
+
+
+
+#### What decisions were made?
+
+
+
+#### What new resources did we find?
+
+
+
+#### What new issues were discovered?
+
+
+
+#### What went well?
+
+
+
+#### What was difficult?
+
+
+
+#### What is our plan for next week?
+
+
+## February
+
+### Jan 30- Feb 3 (Week #22)
+#### What did we work on?
+
+
+
+#### What decisions were made?
+
+
+
+#### What new resources did we find?
+
+
+
+#### What new issues were discovered?
+
+
+
+#### What went well?
+
+
+
+#### What was difficult?
+
+
+
+#### What is our plan for next week?
+
+
+
+### Feb 6-10 (Week #23)
+#### What did we work on?
+
+
+
+#### What decisions were made?
+
+
+
+#### What new resources did we find?
+
+
+
+#### What new issues were discovered?
+
+
+
+#### What went well?
+
+
+
+#### What was difficult?
+
+
+
+#### What is our plan for next week?
+
+
+
+
+### Feb 13-17 (Week #24)
+#### What did we work on?
+
+
+
+#### What decisions were made?
+
+
+
+#### What new resources did we find?
+
+
+
+#### What new issues were discovered?
+
+
+
+#### What went well?
+
+
+
+#### What was difficult?
+
+
+
+#### What is our plan for next week?
+
+
+
+
+### Feb 21-24 (Week #25)
+#### What did we work on?
+
+
+
+#### What decisions were made?
+
+
+
+#### What new resources did we find?
+
+
+
+#### What new issues were discovered?
+
+
+
+#### What went well?
+
+
+
+#### What was difficult?
+
+
+
+#### What is our plan for next week?
+
+
+## March
+
+### Feb 27- Mar 3 (Week #26)
+#### What did we work on?
+
+
+
+#### What decisions were made?
+
+
+
+#### What new resources did we find?
+
+
+
+#### What new issues were discovered?
+
+
+
+#### What went well?
+
+
+
+#### What was difficult?
+
+
+
+#### What is our plan for next week?
+
+
+
+
+
+
+
 
 
 
