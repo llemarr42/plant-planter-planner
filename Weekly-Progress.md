@@ -646,21 +646,17 @@ Next week we will have presented the presenation and continue working on Onshape
 
 This week we were working on finalizing the last pieces of the arm. We also got the code working more.
 
-#### What decisions were made?
-
-
-
 #### What new issues were discovered?
 
-We were hoping to have the arm printed this week in order to start fully building and coding. However, the 3D printer messed up while printing our last two pieces. This caused us to not be able to put the arm together, but gave us more time to work on code and documentation.
+Our first arm piece is a bit heavier than we anticipated. We are making the pieces even lighter than we originally planned in order to hopefully stop the arm from being too heavy. We also underestimated the amount of work the code would take.
 
 #### What went well?
 
-The coding went well this week. We were able to 
+The coding went well this week. We were able to get one movement working and slow it down. It was moving really fast before, but we found a way to slow the movement down, which allowed for steadier movement. 
 
 #### What was difficult?
 
-
+We were hoping to have the arm printed this week in order to start fully building and coding. However, the 3D printer messed up while printing our last two pieces. This caused us to not be able to put the arm together, but gave us more time to work on code and documentation.
 
 #### What is our plan for next week?
 
@@ -672,7 +668,7 @@ Our plan for next week is to get farther into our project. We will be putting to
 ### Mar 6- 10 (Week #27)
 #### What did we work on?
 
-This week we were working on finalizing the last pieces of the arm. We also got the code working more.
+
 
 #### What decisions were made?
 
@@ -680,11 +676,11 @@ This week we were working on finalizing the last pieces of the arm. We also got 
 
 #### What new issues were discovered?
 
-We were hoping to have the arm printed this week in order to start fully building and coding. However, the 3D printer messed up while printing our last two pieces. This caused us to not be able to put the arm together, but gave us more time to work on code and documentation.
+
 
 #### What went well?
 
-The coding went well this week
+
 
 #### What was difficult?
 
@@ -692,7 +688,7 @@ The coding went well this week
 
 #### What is our plan for next week?
 
-Our plan for next week is to get farther into our project 
+
 
 
 
