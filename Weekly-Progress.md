@@ -644,23 +644,19 @@ Next week we will have presented the presenation and continue working on Onshape
 ### Feb 27- Mar 3 (Week #26)
 #### What did we work on?
 
-
+This week we were working on finalizing the last pieces of the arm. We also got the code working more.
 
 #### What decisions were made?
 
 
 
-#### What new resources did we find?
-
-
-
 #### What new issues were discovered?
 
-
+We were hoping to have the arm printed this week in order to start fully building and coding. However, the 3D printer messed up while printing our last two pieces. This caused us to not be able to put the arm together, but gave us more time to work on code and documentation.
 
 #### What went well?
 
-
+The coding went well this week
 
 #### What was difficult?
 
@@ -668,6 +664,7 @@ Next week we will have presented the presenation and continue working on Onshape
 
 #### What is our plan for next week?
 
+Our plan for next week is to get farther into our project 
 
 
 
@@ -676,6 +673,5 @@ Next week we will have presented the presenation and continue working on Onshape
 
 
 
-
-
+TOP IS YELLOW BLUE IS BOTTOM
 
