@@ -656,6 +656,34 @@ We were hoping to have the arm printed this week in order to start fully buildin
 
 #### What went well?
 
+The coding went well this week. We were able to 
+
+#### What was difficult?
+
+
+
+#### What is our plan for next week?
+
+Our plan for next week is to get farther into our project. We will be putting together the last few pieces of the arm as well as finalizing, and hopefully printing the gripper. If this happens, we will be even closer to the next step of our project.
+
+
+
+
+### Mar 6- 10 (Week #27)
+#### What did we work on?
+
+This week we were working on finalizing the last pieces of the arm. We also got the code working more.
+
+#### What decisions were made?
+
+
+
+#### What new issues were discovered?
+
+We were hoping to have the arm printed this week in order to start fully building and coding. However, the 3D printer messed up while printing our last two pieces. This caused us to not be able to put the arm together, but gave us more time to work on code and documentation.
+
+#### What went well?
+
 The coding went well this week
 
 #### What was difficult?
@@ -668,10 +696,32 @@ Our plan for next week is to get farther into our project
 
 
 
+### ___ _- _ (Week #__)
+#### What did we work on?
+
+
+
+#### What decisions were made?
+
+
+
+
+#### What new issues were discovered?
+
+
+
+#### What went well?
+
+
+
+#### What was difficult?
+
+
+
+#### What is our plan for next week?
 
 
 
 
 
-TOP IS YELLOW BLUE IS BOTTOM
 
