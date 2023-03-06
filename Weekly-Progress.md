@@ -614,29 +614,11 @@ Next week we will have presented the presenation and continue working on Onshape
 ### Feb 21-24 (Week #25)
 #### What did we work on?
 
-
-
-#### What decisions were made?
-
-
-
-#### What new resources did we find?
-
-
-
-#### What new issues were discovered?
-
-
-
-#### What went well?
-
-
-
-#### What was difficult?
-
-
+This was already a short week, but with both of us being absent for at least a day, we barely got anything done. We have got things organized and screwed in tighter with the arm, as well as started the code. Nothing went wrong, but nothing was outstanding either. 
 
 #### What is our plan for next week?
+
+Our plan for next week is to continue with the code and work on the arm to be ready to print.
 
 
 ## March
