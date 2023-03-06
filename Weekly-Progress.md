@@ -139,7 +139,7 @@ Next week we will have presented the presenation and continue working on Onshape
 ### Oct 17-21 (Week #9)
 #### What did we work on?
 
-
+We were presenting our project proposal. We also continued on Onshape.
 
 #### What decisions were made?
 
