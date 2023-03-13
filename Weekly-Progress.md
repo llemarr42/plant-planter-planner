@@ -650,14 +650,11 @@ Our plan for next week is to get farther into our project. We will be putting to
 ### Mar 6- 10 (Week #27)
 #### What did we work on?
 
-
-
-#### What decisions were made?
-
-
+This week we worked on more code and putting together the next arm parts. 
 
 #### What new issues were discovered?
 
+We designed one of the middle arm parts with holes that were too small and difficult to put in the screw. While trying to fix it, by drilling bigger holes 
 
 
 #### What went well?
