@@ -654,7 +654,30 @@ This week we worked on more code and putting together the next arm parts.
 
 #### What new issues were discovered?
 
-We designed one of the middle arm parts with holes that were too small and difficult to put in the screw. While trying to fix it, by drilling bigger holes 
+We designed one of the middle arm parts with holes that were too small and difficult to put in the screw. While trying to fix it, by drilling bigger holes, we acidently broke off the piece. We didn't fully get a chance to come up with a solution, but we are trying to not 3D print again unless we really have to.
+
+#### What went well?
+
+We made more progress in the coding.
+
+#### What is our plan for next week?
+
+Next week we will continue to work on the code, finishing up the gripper, and figure out our next steps with the part we messed up.
+
+
+
+### Mar 13- 16 (Week #28)
+#### What did we work on?
+
+
+
+#### What decisions were made?
+
+
+
+
+#### What new issues were discovered?
+
 
 
 #### What went well?
@@ -666,7 +689,6 @@ We designed one of the middle arm parts with holes that were too small and diffi
 
 
 #### What is our plan for next week?
-
 
 
 
