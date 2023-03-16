@@ -669,28 +669,19 @@ Next week we will continue to work on the code, finishing up the gripper, and fi
 ### Mar 13- 16 (Week #28)
 #### What did we work on?
 
-
+We worked on fixing the last parts of the arm. We also fixed the code to where it now only runs if a button is pressed.
 
 #### What decisions were made?
 
-
-
-
-#### What new issues were discovered?
-
-
+We decided to reprint the one piece of the arm. It was going to cause more trouble if we tried to fix the origibnal piece. 
 
 #### What went well?
 
-
-
-#### What was difficult?
-
-
+We were able to figure out why our button wasn't working. The other building that we did this week was also pretty succesful.
 
 #### What is our plan for next week?
 
-
+Next week we are going to continue putting the last parts of the arm together, continue working on the code, and hopefully work to get the gripper printed and put together.
 
 
 ### ___ _- _ (Week #__)
