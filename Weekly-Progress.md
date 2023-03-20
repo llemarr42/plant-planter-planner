@@ -684,6 +684,31 @@ We were able to figure out why our button wasn't working. The other building tha
 Next week we are going to continue putting the last parts of the arm together, continue working on the code, and hopefully work to get the gripper printed and put together.
 
 
+### Mar 20- 24 (Week #29)
+#### What did we work on?
+
+
+
+#### What decisions were made?
+
+
+
+
+#### What new issues were discovered?
+
+
+
+#### What went well?
+
+
+
+#### What was difficult?
+
+
+
+#### What is our plan for next week?
+
+
 ### ___ _- _ (Week #__)
 #### What did we work on?
 
