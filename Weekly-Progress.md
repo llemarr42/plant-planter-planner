@@ -687,26 +687,19 @@ Next week we are going to continue putting the last parts of the arm together, c
 ### Mar 20- 24 (Week #29)
 #### What did we work on?
 
-
-
-#### What decisions were made?
-
-
-
+After getting our reprinted piece, we put the whole arm together. Other than that, we worked on our end of Q3 presentation. 
 
 #### What new issues were discovered?
 
-
+Our arm might be a little too heavy, but we are trying to find ways to make it work.
 
 #### What went well?
 
-
-
-#### What was difficult?
-
-
+We were finally able to put our whole arm together and see it in front of us rather than on a screen.
 
 #### What is our plan for next week?
+
+Next week is going to be busy. Being the week before spring break and the last week of the quarter, we have to give our presentation next week. Not only that, but we want to finish the coding for the two new servos (at least working to a certain degree) as well as get the final design for the gripper. We would like to also get the gripper laser cut, but with the busy week that might not happen.
 
 
 ### ___ _- _ (Week #__)
