@@ -702,7 +702,7 @@ We were finally able to put our whole arm together and see it in front of us rat
 Next week is going to be busy. Being the week before spring break and the last week of the quarter, we have to give our presentation next week. Not only that, but we want to finish the coding for the two new servos (at least working to a certain degree) as well as get the final design for the gripper. We would like to also get the gripper laser cut, but with the busy week that might not happen.
 
 
-### ___ _- _ (Week #__)
+### Mar 27- 30 (Week #30)
 #### What did we work on?
 
 
@@ -726,6 +726,31 @@ Next week is going to be busy. Being the week before spring break and the last w
 
 #### What is our plan for next week?
 
+
+
+### ___ _- _ (Week #__)
+#### What did we work on?
+
+
+
+#### What decisions were made?
+
+
+
+
+#### What new issues were discovered?
+
+
+
+#### What went well?
+
+
+
+#### What was difficult?
+
+
+
+#### What is our plan for next week?
 
 
 
