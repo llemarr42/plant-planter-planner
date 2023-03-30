@@ -705,27 +705,18 @@ Next week is going to be busy. Being the week before spring break and the last w
 ### Mar 27- 30 (Week #30)
 #### What did we work on?
 
-
+This week we worked on the code and the presentation for Q3.
 
 #### What decisions were made?
 
-
-
+We decided that the arm was the priority, even though we also wanted to put the arm on a working body with treads.
 
 #### What new issues were discovered?
 
-
-
-#### What went well?
-
-
-
-#### What was difficult?
-
-
+One of our servos isn't working properly. We are trying to figure out the problem before break.
 
 #### What is our plan for next week?
-
+Spring Break! When we get back, we will continue to work on testing and fonalizing our project.
 
 
 ### ___ _- _ (Week #__)
