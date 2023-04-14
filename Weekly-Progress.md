@@ -626,7 +626,7 @@ Our plan for next week is to continue with the code and work on the arm to be re
 ### Feb 27- Mar 3 (Week #26)
 #### What did we work on?
 
-This week we were working on finalizing the last pieces of the arm. We also got the code working more.
+This week we worked on finalizing the last pieces of the arm. We also got the code working more.
 
 #### What new issues were discovered?
 
