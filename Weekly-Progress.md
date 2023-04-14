@@ -725,6 +725,57 @@ Spring Break! When we get back, we will continue to work on testing and fonalizi
 ### Apr 10- 14 (Week #31)
 #### What did we work on?
 
+We worked on making the claw in onshape as well as fixing some of the code problems. We are working on coding the fourth servo now. 
+
+#### What decisions were made?
+
+We switch out the second servo for a more powerful one, and now weight is no longer as big of an issue. 
+
+#### What went well?
+
+We were able to figure out the problem with the servo, progressing onto coding the next one.
+
+#### What was difficult?
+
+We had to switch out a lot of the servos in order to find one that worked properly and wasn't continuous.
+
+#### What is our plan for next week?
+
+Our plan for next week is to move on with the code, get the claw printed/cut, and start working on some of the documantation. After we get a bit farther with the code, we will move completely onto the testing phase of the project.
+
+
+
+### Apr 17- 21 (Week #32)
+#### What did we work on?
+
+
+
+#### What decisions were made?
+
+
+
+
+#### What new issues were discovered?
+
+
+
+#### What went well?
+
+
+
+#### What was difficult?
+
+
+
+#### What is our plan for next week?
+
+
+
+
+
+### ___ __- __ (Week #)
+#### What did we work on?
+
 
 
 #### What decisions were made?
