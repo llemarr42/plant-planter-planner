@@ -25,10 +25,10 @@ void setup() {
   myServo.attach(10);
   myServo2.attach(9);
   myServo3.attach(13);
-  myServo4.attach(15);
+  myServo4.attach(12);
 
   pinMode(buttonPin, INPUT_PULLUP);
-  
+  myServo4.write(restAngle4);
   myServo3.write(restAngle3);
   myServo2.write(restAngle2);
   myServo.write(restAngle1);
@@ -41,6 +41,7 @@ void loop() {
       Serial.println(Angle3);
       myServo.write(Angle1);
       myServo3.write(Angle3);
+      myServo4.write(Angle4);
       delay(100);    
       if (Angle1 < moveAngle1) {
         Angle1 += 1;
@@ -54,11 +55,15 @@ void loop() {
       if (Angle3 >= moveAngle3) {
         Angle3 -= 1;
       } 
+      if (Angle4 >= moveAngle4) {
+        Angle4 -= 1;
+      }
     }
     for  (i ; i > 0; i -=1){
       Serial.println(Angle3);
       myServo.write(Angle1);
       myServo3.write(Angle3);
+      myServo4.write(Angle4);      
       delay(100);    
       if (Angle1 >= restAngle1) { 
         Angle1 -= 1;
@@ -71,6 +76,9 @@ void loop() {
       }
       if (Angle3 <= restAngle3) { 
         Angle3 += 1;
+      }
+      if (Angle4 <= restAngle4) { 
+        Angle4 += 1;
       }
    }
   }
